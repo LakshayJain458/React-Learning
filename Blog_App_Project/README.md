@@ -25,26 +25,6 @@ BlogSphere is a feature-rich blog platform built using modern web technologies. 
 - **Create Post**: Use the "Add Post" feature to create a new blog entry. Format your post using the integrated TinyMCE editor.
 - **View Posts**: Browse through all the published posts.
 
-## Folder Structure
-
-```
-BlogSphere/
-├── public/
-├── src/
-│   ├── assets/
-│   ├── components/
-│   ├── contexts/
-│   ├── hooks/
-│   ├── pages/
-│   ├── services/
-│   ├── utils/
-│   ├── App.jsx
-│   ├── index.js
-│   └── ...
-├── .env
-├── package.json
-└── README.md
-```
 
 ## Contributing
 
