@@ -18,33 +18,6 @@ BlogSphere is a feature-rich blog platform built using modern web technologies. 
 - **Editor**: TinyMCE
 - **Tools**: React hooks, Local storage, Environment files
 
-## Installation
-
-1. **Clone the repository**
-    ```bash
-    git clone https://github.com/YourGitHubUsername/BlogSphere.git
-    cd BlogSphere
-    ```
-
-2. **Install dependencies**
-    ```bash
-    npm install
-    ```
-
-3. **Set up environment variables**
-
-    Create a `.env` file in the root directory and add the following:
-    ```
-    REACT_APP_API_ENDPOINT=your-appwrite-endpoint
-    REACT_APP_PROJECT_ID=your-appwrite-project-id
-    ```
-
-4. **Start the development server**
-    ```bash
-    npm run dev
-    ```
-
-    The application should now be running on `http://localhost:3000`.
 
 ## Usage
 
@@ -75,14 +48,7 @@ BlogSphere/
 
 ## Contributing
 
-Contributions are welcome! Please follow these steps:
-
-1. Fork the repository.
-2. Create a new branch (`git checkout -b feature/your-feature-name`).
-3. Make your changes.
-4. Commit your changes (`git commit -m 'Add some feature'`).
-5. Push to the branch (`git push origin feature/your-feature-name`).
-6. Create a pull request.
+Contributions are welcome! 
 
 ## License
 
